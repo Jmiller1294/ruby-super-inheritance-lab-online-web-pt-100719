@@ -10,8 +10,7 @@ class ChattyStudent < Student
     
    10.times {
     super
-    puts "Pick me!"
    }
-   raise_hand
+   
   end 
 end
